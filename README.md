@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# hello_app
+first test app with AWS Cloud9
+>>>>>>> 36fbd26d5507772e95f58461c8139d3d6377978c
